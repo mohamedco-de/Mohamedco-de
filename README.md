@@ -1,10 +1,6 @@
 <div align="center">
 
-# `</>` MOHAMED DEV
-
-### Full-Stack Developer & Creative Engineer
-
-*Building digital experiences that feel alive.*
+<img src="./banner.svg" alt="Mohamed Dev" width="100%" />
 
 <br>
 
